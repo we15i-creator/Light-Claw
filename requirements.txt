@@ -1,0 +1,10 @@
+# Core dependency for async HTTP requests
+aiohttp>=3.9.0
+
+# Optional: For local models via Ollama
+# No additional Python packages needed - Ollama runs separately
+
+# Optional: For development and testing
+pytest>=8.0.0        # Testing framework
+black>=24.0.0        # Code formatter
+pytest-asyncio>=0.23.0  # Async test support
