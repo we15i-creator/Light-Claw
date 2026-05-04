@@ -75,8 +75,8 @@ Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/clawlight.git
-cd clawlight
+git clone https://github.com/we15i/Light-Claw
+cd Light-Claw
 
 # Install dependencies
 pip install -r requirements.txt
@@ -301,8 +301,8 @@ Development Setup
 
 ```bash
 # Clone and install dev dependencies
-git clone https://github.com/we15i/clawlight
-cd clawlight
+git clone https://github.com/we15i/Light-Claw
+cd Light-Claw
 pip install -r requirements-dev.txt
 
 # Run tests
