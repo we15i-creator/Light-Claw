@@ -1,12 +1,20 @@
-ClawLight 🦞
+
+# ClawLight 🦞
 
 <div align="center">
 
-https://img.shields.io/badge/ClawLight-v1.0-blue
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/python-3.10+-blue.svg
-https://img.shields.io/badge/code%20style-black-000000.svg
+![Version](https://img.shields.io/badge/ClawLight-v1.0-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)
 
+**Lightweight Multi-Agent AI Framework with Intelligent Routing**
+
+*Fast • Flexible • Open Source*
+
+[Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Examples](#-examples) • [Contributing](#-contributing)
+
+</div>
 Lightweight Multi-Agent AI Framework with Intelligent Routing
 
 Fast • Flexible • Open Source
