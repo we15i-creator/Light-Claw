@@ -293,7 +293,7 @@ Development Setup
 
 ```bash
 # Clone and install dev dependencies
-git clone https://github.com/yourusername/clawlight.git
+git clone https://github.com/we15i/clawlight
 cd clawlight
 pip install -r requirements-dev.txt
 
@@ -346,12 +346,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 · Built with aiohttp for async operations
 · Search powered by DuckDuckGo
 · Special thanks to all contributors
-
-💬 Community
-
-· Discord Server - Chat with the community
-· Twitter - Updates and announcements
-· GitHub Discussions - Questions and ideas
 
 ⭐ Support the Project
 
